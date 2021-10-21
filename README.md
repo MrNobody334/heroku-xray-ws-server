@@ -2,8 +2,8 @@
 
 🔰 Aviable Server Locations on Heroku 
 
-✅ USA 🇺🇸
-✅ EUROPE 🇪🇺
+<p>✅ USA 🇺🇸<br>
+✅ EUROPE 🇪🇺</p>
 
 🔰 Genarate UUID via this Website : https://www.uuidgenerator.net/
 
